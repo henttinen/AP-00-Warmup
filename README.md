@@ -19,14 +19,22 @@ You have inherited a partial script (`grade_calculator.py`) from a previous deve
 1.  Click the green **"Use this template"** button at the top right of this page.
 2.  Select **"Create a new repository"**.
 3.  Name it: `AP-00-Warmup-MyName` (replace `MyName` with your actual name).
-4.  Make sure the visibility is **Public** (so that I can see it).
+4.  **Important:** Set the visibility to **Private**.
 5.  Click **Create repository**.
 
-### 2. Clone to VS Code
+### 2. Grant Access to me
+Since your repository is Private, you must manually give me permission to view it for grading.
+1.  Go to your new repository's **Settings** tab.
+2.  Click **Collaborators** on the left menu.
+3.  Click the **Add people** button.
+4.  Type the teacher's username: `henttinen`
+5.  Select the user and click **Add to this repository**.
+
+### 3. Clone to VS Code
 1.  Open **Visual Studio Code** on your computer.
 2.  Open the **Command Palette** (`Ctrl+Shift+P` on Windows, `Cmd+Shift+P` on Mac).
 3.  Type `Git: Clone` and select it.
-4.  Paste the URL of **YOUR** new repository (not the original template!).
+4.  Paste the URL of **YOUR** new repository.
 5.  Select a folder on your computer to save it.
 6.  Click **Open** when asked to open the cloned repository.
 
@@ -37,15 +45,12 @@ Open `grade_calculator.py`. Do **not** rewrite the whole file. Try to run it and
 
 ### Task 1: Fix the Syntax Error
 Run the code (Terminal: `python grade_calculator.py`).
-* **Hint:** Python loops require specific punctuation. Look at line 5.
 
 ### Task 2: Fix the Logic Error
 Once the syntax is fixed, run it again. It will crash.
-* **Hint:** The variable `count` is used on line 10, but where is it defined? How do you find the length of a list in Python?
 
 ### Task 3: Fix the Type Error
 Once the math works, the program tries to print the result. It will crash again.
-* **Hint:** You cannot combine text (Strings) and numbers (Floats) using the `+` symbol without converting the number first.
 
 ---
 
@@ -73,9 +78,10 @@ Before you submit, verify the following:
 - [ ] If I enter `5`, the average updates correctly.
 - [ ] I have committed my changes with a clear message (e.g., "Fixed bugs and added user input").
 - [ ] I have pushed my changes to GitHub.
+- [ ] **Crucial:** I have added the teacher as a collaborator in the Settings.
 
 ### How to Submit
-Copy the URL of **your** GitHub repository and submit it to the course LMS/Moodle.
+Copy the URL of **your** GitHub repository and submit it to the Moodle assingment.
 
 ---
 
