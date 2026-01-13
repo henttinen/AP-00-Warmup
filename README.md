@@ -27,7 +27,7 @@ Since your repository is Private, you must manually give me permission to view i
 1.  Go to your new repository's **Settings** tab.
 2.  Click **Collaborators** on the left menu.
 3.  Click the **Add people** button.
-4.  Type the teacher's username: `henttinen`
+4.  Type the teacher's username: [`henttinen`](https://github.com/henttinen)
 5.  Select the user and click **Add to this repository**.
 
 ### 3. Clone to VS Code
