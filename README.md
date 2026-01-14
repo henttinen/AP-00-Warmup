@@ -22,15 +22,7 @@ You have inherited a partial script (`grade_calculator.py`) from a previous deve
 4.  **Important:** Set the visibility to **Private**.
 5.  Click **Create repository**.
 
-### 2. Grant Access to me
-Since your repository is Private, you must manually give me permission to view it for grading.
-1.  Go to your new repository's **Settings** tab.
-2.  Click **Collaborators** on the left menu.
-3.  Click the **Add people** button.
-4.  Type the teacher's username: [`henttinen`](https://github.com/henttinen)
-5.  Select the user and click **Add to this repository**.
-
-### 3. Clone to VS Code
+### 2. Clone to VS Code
 1.  Open **Visual Studio Code** on your computer.
 2.  Open the **Command Palette** (`Ctrl+Shift+P` on Windows, `Cmd+Shift+P` on Mac).
 3.  Type `Git: Clone` and select it.
@@ -81,7 +73,7 @@ Before you submit, verify the following:
 - [ ] **Crucial:** I have added the teacher as a collaborator in the Settings.
 
 ### How to Submit
-Copy the URL of **your** GitHub repository and submit it to the Moodle assingment.
+Copy the Python code to a TXT file and submit it to the Moodle assingment.
 
 ---
 
