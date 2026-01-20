@@ -70,7 +70,6 @@ Before you submit, verify the following:
 - [ ] If I enter `5`, the average updates correctly.
 - [ ] I have committed my changes with a clear message (e.g., "Fixed bugs and added user input").
 - [ ] I have pushed my changes to GitHub.
-- [ ] **Crucial:** I have added the teacher as a collaborator in the Settings.
 
 ### How to Submit
 Copy the Python code to a TXT file and submit it to the Moodle assingment.
